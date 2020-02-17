@@ -17,8 +17,9 @@ void keypad1(void);
 void keypad(void);
 void update1(int);
 void notavailable(void);
-//void amount_crocine(int);
-void bal(void);	  //line 185
+void bal(void);	 
+
+
 
 //BALANCE PARAMETERS
 int amount, balance;
